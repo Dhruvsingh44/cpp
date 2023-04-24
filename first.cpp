@@ -7,6 +7,7 @@ int main(){
         cout<<n<<" ";
     }
     cout<<endl;
+    
     return 0;
 
 }
